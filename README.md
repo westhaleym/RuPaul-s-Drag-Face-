@@ -1,6 +1,5 @@
 # eecs-349-final
 
-"""
 This is an example of using the k-nearest-neighbors(knn) algorithm for the facial recognition of RuPaul Charles, drag queen extraordinaire.
 
 What do I need to use this example?
